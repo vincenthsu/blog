@@ -1,0 +1,39 @@
+baseURL = "https://vincenthsu.github.io/blog/"
+languageCode = "zh-tw"
+title = "Invalid Data"
+theme = "beautifulhugo"
+publishDir = "docs"
+disqusShortname = "vincenthsu"
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+
+[params]
+    subtitle = "可愛又迷人的反派角色"
+    rss = true
+    comments = true
+
+[author]
+    name = "Vincent Hsu"
+    website = "https://vincenthsu.github.io"
+    email = "vincent.hsu@hotmail.com"
+    github = "vincenthsu"
+
+[[menu.main]]
+    name = "Posts"
+    url = ""
+    weight = 1
+
+[[menu.main]]
+    name = "Categories"
+    weight = 2
+    url = "categories"
+
+[[menu.main]]
+    name = "Tags"
+    url = "tags"
+    weight = 3
