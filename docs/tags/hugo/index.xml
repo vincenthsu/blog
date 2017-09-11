@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Invalid Data</title>
+    <link>https://vincenthsu.github.io/blog/tags/hugo/</link>
+    <description>Recent content in Hugo on Invalid Data</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <managingEditor>vincent.hsu@hotmail.com (Vincent Hsu)</managingEditor>
+    <webMaster>vincent.hsu@hotmail.com (Vincent Hsu)</webMaster>
+    <lastBuildDate>Sat, 09 Sep 2017 23:44:38 +0800</lastBuildDate>
+    
+	<atom:link href="https://vincenthsu.github.io/blog/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Authors of Hugo</title>
+      <link>https://vincenthsu.github.io/blog/2017/09/09/authors-of-hugo/</link>
+      <pubDate>Sat, 09 Sep 2017 23:44:38 +0800</pubDate>
+      <author>vincent.hsu@hotmail.com (Vincent Hsu)</author>
+      <guid>https://vincenthsu.github.io/blog/2017/09/09/authors-of-hugo/</guid>
+      <description> 關於Hugo的使用，Hugo作者的網站當然是最值得參考的，紀錄一下他們的網站連結。
+Steve Francia  個人首頁: stevefrancia.com, github Blog: spf13.com, github  Bjørn Erik Pedersen  個人首頁: bep.is, github Blog: bepsays.com, github  </description>
+    </item>
+    
+    <item>
+      <title>序</title>
+      <link>https://vincenthsu.github.io/blog/2017/09/09/new-start/</link>
+      <pubDate>Sat, 09 Sep 2017 22:54:53 +0800</pubDate>
+      <author>vincent.hsu@hotmail.com (Vincent Hsu)</author>
+      <guid>https://vincenthsu.github.io/blog/2017/09/09/new-start/</guid>
+      <description>一直有寫blog紀錄生活的想法，但是都斷斷續續寫了幾篇無法持續下去，現在嘗試用Hugo重新開始。</description>
+    </item>
+    
+  </channel>
+</rss>
